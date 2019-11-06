@@ -25,6 +25,6 @@ function sayHiToGrandma(string) {
   } //checks if string is upper case.
 
   else if ("I love you, Grandma." === string) {
-    return "I love you, too"
+    return "I love you, too."
   }
 }
